@@ -1,0 +1,69 @@
+text,intent,response
+Hello,greeting,Hello! How can I help you?
+Hi,greeting,Hello! How can I help you?
+Hey,greeting,Hello! How can I help you?
+Good morning,greeting,Good morning! How can I help you?
+Good afternoon,greeting,Good afternoon! How can I help you?
+Good evening,greeting,Good evening! How can I help you?
+Greetings,greeting,Hello! How can I help you?
+Hi there,greeting,Hello! How can I help you?
+Nice to meet you,greeting,Nice to meet you too! How can I help?
+How are you,greeting,I am doing well. How can I help you?
+Hello chatbot,greeting,Hello! I am ready to answer your questions.
+Hey bot,greeting,Hello! Ask me anything.
+I need help,greeting,Sure! Tell me your question.
+Can you help me,greeting,"Yes, I can help you."
+Start conversation,greeting,Hello! How can I assist you?
+,,
+Bye,goodbye,Goodbye! Have a great day.
+Goodbye,goodbye,Goodbye! Have a great day.
+See you later,goodbye,See you later! Have a nice day.
+Exit,goodbye,Goodbye! Come back anytime.
+Quit,goodbye,Goodbye! Come back anytime.
+I want to leave,goodbye,Goodbye! Have a wonderful day.
+Talk to you later,goodbye,See you again soon.
+End chat,goodbye,Chat ended. Have a great day.
+Bye bye,goodbye,Goodbye! Take care.
+See you,goodbye,See you soon.
+,,
+Thank you,thanks,You're welcome! Happy to help.
+Thanks,thanks,You're welcome! Happy to help.
+Thanks a lot,thanks,You're welcome!
+I appreciate your help,thanks,Glad I could help.
+Thank you so much,thanks,You're welcome!
+Great help,thanks,Happy to help you.
+That was useful,thanks,Glad you found it useful.
+Nice answer,thanks,Thank you!
+,,
+What is Python,python,"Python is a popular programming language used for web development, data science, AI, and automation."
+Explain Python,python,Python is an easy-to-learn programming language.
+Why learn Python,python,Python is widely used because it is simple and powerful.
+Is Python easy,python,"Yes, Python is beginner friendly."
+Python features,python,"Python supports object-oriented programming, libraries, and automation."
+Who created Python,python,Python was created by Guido van Rossum.
+What can Python do,python,"Python can be used for AI, ML, web development, and data analysis."
+Python programming language,python,Python is a high-level interpreted programming language.
+Tell me about Python,python,Python is widely used in software development and artificial intelligence.
+Python uses,python,"Python is used in machine learning, data science, and application development."
+,,
+What is machine learning,machine_learning,Machine Learning allows computers to learn patterns from data.
+Explain machine learning,machine_learning,Machine Learning is a branch of AI where machines learn from examples.
+How does ML work,machine_learning,ML algorithms learn from training data and make predictions.
+Types of machine learning,machine_learning,"The main types are supervised, unsupervised, and reinforcement learning."
+Why use machine learning,machine_learning,Machine Learning helps automate prediction and decision making.
+Machine learning examples,machine_learning,"Examples include spam detection, recommendation systems, and price prediction."
+Define ML,machine_learning,ML is a technique that enables computers to learn from data.
+What is supervised learning,machine_learning,Supervised learning uses labeled data for training.
+What is unsupervised learning,machine_learning,Unsupervised learning finds hidden patterns in unlabeled data.
+Machine learning applications,machine_learning,"ML is used in healthcare, finance, robotics, and many industries."
+,,
+What is artificial intelligence,artificial_intelligence,Artificial Intelligence enables machines to perform tasks that require human intelligence.
+Explain AI,artificial_intelligence,AI is the field of creating intelligent computer systems.
+What is AI used for,artificial_intelligence,"AI is used in automation, robotics, recommendation systems, and assistants."
+Types of AI,artificial_intelligence,"AI can be classified as narrow AI, general AI, and super AI."
+AI examples,artificial_intelligence,"Examples include chatbots, self-driving cars, and voice assistants."
+Why is AI important,artificial_intelligence,AI helps solve complex problems and automate tasks.
+Define artificial intelligence,artificial_intelligence,AI is the simulation of human intelligence in machines.
+AI in daily life,artificial_intelligence,"AI is used in smartphones, search engines, and online services."
+Future of AI,artificial_intelligence,AI will continue improving automation and decision making.
+AI meaning,artificial_intelligence,AI stands for Artificial Intelligence.
